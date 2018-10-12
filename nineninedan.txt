@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-	int num=9;	// 악! 8단까지밖에 안만들다닛!!
+	int num=10;	// modify
 	for(int i=1; i<num; i++)
 		for(int j=1; j<=9; j++)
 			cout<<i<<"*"<<j<<" = "<<i*j<<endl;
